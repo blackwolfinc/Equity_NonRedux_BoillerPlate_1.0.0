@@ -1,0 +1,1 @@
+# Equity_NonRedux_BoillerPlate_1.0.0
